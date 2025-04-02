@@ -1,0 +1,21 @@
+1-What is the difference between a class and an object?
+
+The class is the blueprint of my car and does not allocate any memory,
+while the object is the actual implementation of that car and it does allocate memory.
+
+===========================================================================================================================
+2-What is the purpose of using getters and setters in a class?
+
+They are used to access the private data members in my class safely.
+setters: they set a value to my private variable.
+getters: they retrieve the value of my private variable.
+
+===========================================================================================================================
+3-What is the difference between a Public and Private access modifier?
+
+Private: variables or functions initialized inside the private access modifier 
+	 cannot be accessed directly from the object.
+
+Public: variables or functions initialized inside the public access modifier 
+	can be accessed directly from the object.
+
